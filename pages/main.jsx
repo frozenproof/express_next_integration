@@ -11,7 +11,7 @@ export default function Main(props) {
     <ul className='large_li'>
       <li> <a href="/preload_data"> Preloading data into pages </a> </li>
       <li> <a href="/load_data_via_api"> Loading data after page load </a> </li>
-      <li> <a href="/large_or_small/5"> Special routing </a> </li>
+      <li> <a href="/large_or_small/199"> Special routing </a> </li>
       <li> <a href="/nextjs_default_routing"> Default/fallback NextJS routing </a> </li>
     </ul>
   </Layout>
